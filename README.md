@@ -47,4 +47,9 @@ My name is Paulo Pinheiro. I'm an Entry-Level Data Professional from Brazil expl
 
 ## Latest Medium Articles
 <!-- MEDIUM:START -->
+- [“Hello World” do AWS Bucket S3 com CloudFormation](https://pplpauloo.medium.com/hello-world-do-aws-bucket-s3-com-cloudformation-c6b4cbffde83?source=rss-915451cd44c------2)
+- [Web Scraping: Catando o básico em hospedagens no Airbnb Pernambuco](https://pplpauloo.medium.com/web-scraping-catando-o-b%C3%A1sico-em-hospedagens-no-airbnb-pernambuco-a5f036ef3879?source=rss-915451cd44c------2)
+- [Big Data como combustível para empresas](https://pplpauloo.medium.com/big-data-como-combust%C3%ADvel-para-empresas-c156047a1dae?source=rss-915451cd44c------2)
+- [Encontrando atributos mais importantes em dados de diabetes](https://pplpauloo.medium.com/encontrando-atributos-mais-importantes-em-dados-de-diabetes-b39d644c275c?source=rss-915451cd44c------2)
+- [Extraindo tweets de forma objetiva em Python para Análise de Sentimentos](https://pplpauloo.medium.com/extraindo-tweets-de-forma-objetiva-em-python-para-an%C3%A1lise-de-sentimentos-74e1910ff4c3?source=rss-915451cd44c------2)
 <!-- MEDIUM:END -->
