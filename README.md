@@ -5,7 +5,7 @@
 
 My name is Paulo Pinheiro. I'm an Entry-Level Data Professional from Brazil exploring Data Analysis, Science, and Engineering using Python as a primary programming language.
 
-<!-- links externos -->
+<!-- linkedin, medium, zap, mail-->
 <div>
   <a href='https://linkedin.com/in/pplpauloo' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target='_blank'></a>
   <a href='https://pplpauloo.medium.com' target='_blank'><img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' target='_blank'></a>
@@ -18,12 +18,55 @@ My name is Paulo Pinheiro. I'm an Entry-Level Data Professional from Brazil expl
 - 🌱 I'm currently learning **Apache Airflow** & **Docker**.
 - ⚡ Fun fact: ❤️ 🐕 my dogs | 🏐 volley | 🏖️ 😎 beach | 🍻 beer | 🍷 wine
 
-<!--
+<!-
 <div>
   <img height='180em', src='https://github-readme-stats.vercel.app/api?username=pplpauloo&show_icons=true&theme=tokyonight&hide="total-issues"'>
   <img height='180em', src='https://github-readme-stats.vercel.app/api/top-langs/?username=pplpauloo&theme=tokyonight'>
 </div>
 -->
+
+## Experiente
+
+*set. 21 - nov. 21*
+* AIM Factory Participant @ **Exemplaria Solutions**
+    * Used **Stats** to validate **Data Quality**.
+    * Prepared the data using **pandas**, **numpy**, and other **Python** packages to **analysis** and 
+    **Machine Learning** modeling.
+    * Built **graphs** to analyze data and extract **insights** using **matplotlib** and **seaborn** packages.
+    * Implemented several Machine Learning models to fit the data and get the best metric.
+
+*set. 21*
+* Data Scraper Freelancer @ **Chronus Auditores Independentes**
+  * Built a bot to automatically extract 4 thousand tables containing several data from websites using Web Scraping techiniques in Python.
+  * Extracted and organized the data using scrapy, selenium, and pandas packages.
+  * Delivered the data in 4 days of 10 requested by the client.
+
+## Latest Personal Data Projects
+*
+*
+*
+*
+* 📚 [CLICK FOR MORE](https://github.com/pplpauloo/data-science)
+
+
+## Latest Medium Articles
+<!-- MEDIUM:START -->
+- [“Hello World” do AWS Bucket S3 com CloudFormation](https://pplpauloo.medium.com/hello-world-do-aws-bucket-s3-com-cloudformation-c6b4cbffde83?source=rss-915451cd44c------2)
+- [Web Scraping: Catando o básico em hospedagens no Airbnb Pernambuco](https://pplpauloo.medium.com/web-scraping-catando-o-b%C3%A1sico-em-hospedagens-no-airbnb-pernambuco-a5f036ef3879?source=rss-915451cd44c------2)
+- [Big Data como combustível para empresas](https://pplpauloo.medium.com/big-data-como-combust%C3%ADvel-para-empresas-c156047a1dae?source=rss-915451cd44c------2)
+- [Encontrando atributos mais importantes em dados de diabetes](https://pplpauloo.medium.com/encontrando-atributos-mais-importantes-em-dados-de-diabetes-b39d644c275c?source=rss-915451cd44c------2)
+- [Extraindo tweets de forma objetiva em Python para Análise de Sentimentos](https://pplpauloo.medium.com/extraindo-tweets-de-forma-objetiva-em-python-para-an%C3%A1lise-de-sentimentos-74e1910ff4c3?source=rss-915451cd44c------2)
+<!-- MEDIUM:END -->
+
+## Skills
+
+* **I believe I can fly**: Python, SQL, Web Scraping, Data Manipulation/Treatment/Analysis, Machine Learning, Git
+* **I'm on my way to fly**: PySpark, TensorFLow, NoSQL, Power BI, Stats, Hadoop Ecossystem, Data Warehouse & Lake, AWS*, GCP\**
+* **Familiar with**: Airflow, Docker, NLP, AWS CloudFormation
+* **Planning**: CI/CD, API Rest, Pentaho... searching for more...
+
+\* **GCP**: BigQuery, Data Studio, Dataproc, Pub/Sub, Dataflow
+\* **AWS**: S3, Redshift, EC2, EMR, Lambda, SageMaker
 
 ## Tools
 <div>
@@ -46,20 +89,3 @@ My name is Paulo Pinheiro. I'm an Entry-Level Data Professional from Brazil expl
   <img src='https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white' target='_blank'>
   <img src='https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white' target='_blank'>
 </div>
-
-
-## Latest Data Projects 
-*
-*
-*
-*
-* 📚 [CLICK FOR MORE](https://github.com/pplpauloo/data-science)
-
-## Latest Medium Articles
-<!-- MEDIUM:START -->
-- [“Hello World” do AWS Bucket S3 com CloudFormation](https://pplpauloo.medium.com/hello-world-do-aws-bucket-s3-com-cloudformation-c6b4cbffde83?source=rss-915451cd44c------2)
-- [Web Scraping: Catando o básico em hospedagens no Airbnb Pernambuco](https://pplpauloo.medium.com/web-scraping-catando-o-b%C3%A1sico-em-hospedagens-no-airbnb-pernambuco-a5f036ef3879?source=rss-915451cd44c------2)
-- [Big Data como combustível para empresas](https://pplpauloo.medium.com/big-data-como-combust%C3%ADvel-para-empresas-c156047a1dae?source=rss-915451cd44c------2)
-- [Encontrando atributos mais importantes em dados de diabetes](https://pplpauloo.medium.com/encontrando-atributos-mais-importantes-em-dados-de-diabetes-b39d644c275c?source=rss-915451cd44c------2)
-- [Extraindo tweets de forma objetiva em Python para Análise de Sentimentos](https://pplpauloo.medium.com/extraindo-tweets-de-forma-objetiva-em-python-para-an%C3%A1lise-de-sentimentos-74e1910ff4c3?source=rss-915451cd44c------2)
-<!-- MEDIUM:END -->
