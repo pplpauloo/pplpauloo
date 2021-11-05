@@ -1,5 +1,6 @@
 <!-- https://yhype.me/dashboard  -->
 ![profile views](https://komarev.com/ghpvc/?username=pplpauloo&style=flat-square)
+![banner](src/banner.gif)
 ## Hi there 👋
 
 My name is Paulo Pinheiro. I'm an Entry-Level Data Professional from Brazil exploring Data Analysis, Science, and Engineering using Python as a primary programming language.
