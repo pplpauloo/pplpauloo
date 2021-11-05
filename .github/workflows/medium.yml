@@ -1,4 +1,4 @@
-name: Latest  medium activity
+name: Latest medium activity
 on:
   schedule:
     # Runs every 5 minutes
@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: pplpauloo/medium@master
         with:
           comment_tag_name: "MEDIUM"
           commit_message: "Updated readme with the latest Medium data"
-          feed_list: "https://medium.com/feed/@pplpauloo"
+          feed_list: "https://pplpauloo.medium.com/feed"
