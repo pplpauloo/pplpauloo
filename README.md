@@ -18,14 +18,14 @@ My name is Paulo Pinheiro. I'm an Entry-Level Data Professional from Brazil expl
 - 🌱 I'm currently learning **Apache Airflow** & **Docker**.
 - ⚡ Fun fact: ❤️ 🐕 my dogs | 🏐 volley | 🏖️ 😎 beach | 🍻 beer | 🍷 wine
 
-<!-
+<!--
 <div>
   <img height='180em', src='https://github-readme-stats.vercel.app/api?username=pplpauloo&show_icons=true&theme=tokyonight&hide="total-issues"'>
   <img height='180em', src='https://github-readme-stats.vercel.app/api/top-langs/?username=pplpauloo&theme=tokyonight'>
 </div>
 -->
 
-## Experiente
+## Experience
 
 *set. 21 - nov. 21*
 * AIM Factory Participant @ **Exemplaria Solutions**
@@ -33,13 +33,13 @@ My name is Paulo Pinheiro. I'm an Entry-Level Data Professional from Brazil expl
     * Prepared the data using **pandas**, **numpy**, and other **Python** packages to **analysis** and 
     **Machine Learning** modeling.
     * Built **graphs** to analyze data and extract **insights** using **matplotlib** and **seaborn** packages.
-    * Implemented several Machine Learning models to fit the data and get the best metric.
+    * Implemented several Machine Learning **algorithms** to fit the data and get the best metric.
 
 *set. 21*
 * Data Scraper Freelancer @ **Chronus Auditores Independentes**
-  * Built a bot to automatically extract 4 thousand tables containing several data from websites using Web Scraping techiniques in Python.
-  * Extracted and organized the data using scrapy, selenium, and pandas packages.
-  * Delivered the data in 4 days of 10 requested by the client.
+  * Built a **bot** to **automatically** extract 4 thousand tables containing several data from websites using **Web Scraping** techiniques in Python.
+  * Extracted and organized the data using **scrapy**, **selenium**, and panda`s packages.
+  * Delivered the data **in 4 days of 10 requested** by the client.
 
 ## Latest Personal Data Projects
 *
@@ -65,7 +65,7 @@ My name is Paulo Pinheiro. I'm an Entry-Level Data Professional from Brazil expl
 * **Familiar with**: Airflow, Docker, NLP, AWS CloudFormation
 * **Planning**: CI/CD, API Rest, Pentaho... searching for more...
 
-\* **GCP**: BigQuery, Data Studio, Dataproc, Pub/Sub, Dataflow
+\* **GCP**: BigQuery, Data Studio, Dataproc, Pub/Sub, Dataflow<br>
 \* **AWS**: S3, Redshift, EC2, EMR, Lambda, SageMaker
 
 ## Tools
