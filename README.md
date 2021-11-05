@@ -46,5 +46,5 @@ My name is Paulo Pinheiro. I'm an Entry-Level Data Professional from Brazil expl
 </div>
 
 ## Latest Medium Articles
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
